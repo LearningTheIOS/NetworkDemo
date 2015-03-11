@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="13E28" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="RegisterRequest" representedClassName="RegisterRequest" syncable="YES">
+        <attribute name="cert_no" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cust_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="login_pwd" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verify_code" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="RegisterRequest" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
